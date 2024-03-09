@@ -1,6 +1,6 @@
 xformers
 uvicorn[standard]==0.24.0.post1
-fastapi==0.104
+fastapi==0.109.1
 accelerate
 # git+https://github.com/cumulo-autumn/StreamDiffusion.git@main#egg=streamdiffusion
 --extra-index-url https://download.pytorch.org/whl/cu121
